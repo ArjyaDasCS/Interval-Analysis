@@ -1,0 +1,7 @@
+1. a new class that implements interface latticelement and define its functions
+2. Kildal function (targetmethod,initial)
+{
+
+}
+
+3. dollar represents temporary variables
